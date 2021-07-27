@@ -456,5 +456,40 @@
       "version": "0.60",
       "level": 9
     }
-  ]
+  ],
+  "events": [{
+        "id": 1,
+        "title": "Teste1",
+        "description": "testando",
+		"remember": "Dia anterior",
+		"initialDate": "27/07/2021 13:50",
+		"endDate": "28/07/2021 13:50",
+		"repeat": "Nunca",
+		"reason": "Pessoal",
+		"managerNotification": false,
+		"idemployee": 1
+    }, {
+        "id": 2,
+        "title": "Teste2",
+        "description": "testando2",
+		"remember": "Dia anterior",
+		"initialDate": "28/07/2021 13:50",
+		"endDate": "29/07/2021 13:50",
+		"repeat": "Nunca",
+		"reason": "Pessoal",
+		"managerNotification": false,
+		"idemployee": 2
+    }, {
+		"id": 3,
+        "title": "Teste3",
+        "description": "testando3",
+		"remember": "Dia anterior",
+		"initialDate": "30/07/2021 13:50",
+		"endDate": "31/07/2021 13:50",
+		"repeat": "Nunca",
+		"reason": "Pessoal",
+		"managerNotification": false,
+		"idemployee": 3
+	}
+	]
 }
