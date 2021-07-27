@@ -456,5 +456,40 @@
       "version": "0.60",
       "level": 9
     }
-  ]
+  ],
+  "events": [
+	{
+      "title": "testando",
+      "description": "testando teste",
+      "remember": 'Dia anterior',
+      "initial_Date": "27/07/2021 13:50",
+      "end_Date": "28/07/2021 13:50",
+      "repeat": "Nunca",
+      "reason": "Pessoal",
+      "manager_notification": "false",
+      "id_employee": 1,
+    },
+    {
+      "title": "testando",
+      "description": "testando teste",
+      "remember": 'Dia anterior',
+      "initial_Date": "29/07/2021 13:50",
+      "end_Date": "30/07/2021 13:50",
+      "repeat": "Nunca",
+      "reason": "Pessoal",
+      "manager_notification": "false",
+      "id_employee": 2,
+    },
+    {
+      "title": "testando",
+      "description": "testando teste",
+      "remember": 'Dia anterior',
+      "initial_Date": "27/07/2021 13:50",
+      "end_Date": "28/07/2021 13:50",
+      "repeat": "Nunca",
+      "reason": "Pessoal",
+      "manager_notification": "false",
+      "id_employee": 3,
+    },
+  ],
 }
